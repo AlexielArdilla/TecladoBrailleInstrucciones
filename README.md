@@ -18,7 +18,7 @@ Espero se copen y me ayuden a corregir la traducción para que quede lo más pro
 
 página como va quedando traducida: https://alexielardilla.github.io/TecladoBrailleInstrucciones/
 
-## IMPORTANTíSIMO: Arreglar los links de la página para que lleven a sectores de la propia página!!!(Recuerdo para mí)
+### IMPORTANTíSIMO: Arreglar los links de la página para que lleven a sectores de la propia página!!!(Recuerdo para mí)
 
 
 ### Saludos: Alejandro G. Vera
