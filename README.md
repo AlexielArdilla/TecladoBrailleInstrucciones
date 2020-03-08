@@ -10,7 +10,7 @@ https://youtu.be/TPYkElUaKXo
 ## Instrucciones para participar:
 
 Una traducción básica automática está realizada en el archivo: "traducido.docx", pero necesita ser corregida. A medida que corregimos pintamos de rojo lo ya corregido, para referencia del original está el archivo "Traducir esto.docx"
-si estamos seguros de que está bien la correción. Luego hacemos el pull request.
+si estamos seguros de que está bien la corrección. Luego hacemos el pull request.
 
 ## No editamos "index.html", eso lo hago yo de a poco con la info traducida del word.
 
